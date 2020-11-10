@@ -14,6 +14,7 @@ For linear mode, a purely linear law for the springs guarantees that energy give
 Here are the samples of the simulation results: 
 
 1).Linear Simulator:  https://www.youtube.com/watch?v=vWBBGM08O4I
+
 2).Non-Linear Simulator: https://www.youtube.com/watch?v=vkGeHOIgnxU
 
 # References
