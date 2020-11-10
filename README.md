@@ -11,6 +11,10 @@ For nonlinear, please let beta any number between 0 and 1.
 # Result
 For linear mode, a purely linear law for the springs guarantees that energy given to a single 'normal' mode always remains in that mode. For nonlinear mode, the energy equipartition state was not reached and energy was periodically returning to the initially excited mode.
 
+Here are the samples of the simulation results:
+1).Linear Simulator:  https://www.youtube.com/watch?v=vWBBGM08O4I
+2).Non-Linear Simulator: https://www.youtube.com/watch?v=vkGeHOIgnxU
+
 # References
 [1] Toda M. (1978) Theory of nonlinear lattices, Springer.
 [2] Alwyn C. Scott,Nonlinear Science, 2ndedition, Oxford University Press (2003)
